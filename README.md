@@ -1,4 +1,4 @@
-# Linear-functions-GMM
+# GMM线性运算
 
 利用GMM的线性不变性和线性运算规则，计算GMM的凸组合的PDF/CDF。
 
@@ -9,3 +9,6 @@
 · 设计了基于EM算法的GMM参数拟合方法。
 
 · 可以利用NumPy数组(dtype=GMM)进行矩阵线性变换。
+
+# Linear functions of GMM(Gaussian Mixture Model) 
+
